@@ -1,2 +1,7 @@
 # MachineLearning-and-BigData
-Object Oriented Programming, machine learning and big data with PySpark
+## Topics and skillset:
+
+* Object Oriented Programming in Python
+* Supervised machine learning and clustering 
+* Distributed computing with PyDask 
+* Big data with PySpark
