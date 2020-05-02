@@ -1,5 +1,5 @@
 # MachineLearning-and-BigData
-## Topics and skillset:
+## Topics and skill set:
 
 * Object Oriented Programming in Python
 * Supervised machine learning and clustering 
