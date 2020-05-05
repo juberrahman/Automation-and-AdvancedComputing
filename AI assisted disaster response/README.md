@@ -23,8 +23,8 @@ What if we could use past disaster data to help them know what is needed?
 * Stack of Ensembles
 * Auto ML
 ## Findings and Discussions:
-Best performing model: Stack of Ensembles
-Performance: RMSLE=2.41 , R-squared value=0.37
-The model is good in predicting the mid-impact cyclones
-For low impact cyclones predictions are over-estimated
-Overall trend shows a weak but expected trend
+* Best performing model: Stack of Ensembles
+* Performance: RMSLE=2.41 , R-squared value=0.37
+* The model is good in predicting the mid-impact cyclones
+* For low impact cyclones predictions are over-estimated
+* Overall trend shows a weak but expected trend
