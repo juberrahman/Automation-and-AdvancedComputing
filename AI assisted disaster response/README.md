@@ -1,9 +1,9 @@
-Problem: Quick disaster response
+## Problem: Quick disaster response
 When a disaster strikes, the World Food Programme (WFP), as well as the other humanitarian actors, need to design comprehensive emergency operations. They need to know what to bring and in which quantity. How many shelters? How many tons of food? These needs assessments are conducted by humanitarian experts, based on the first information collected, their knowledge and their experience.
 
 What if we could use past disaster data to help them know what is needed?
 
-Summary of Materials and Methods:
+## Summary of Materials and Methods:
 Dataset used: merged dataset version 14 (OUTPUT_WBI_exposer_cyclones_v14.csv)
 Data processing : filling missing values, encoding categorical features, dealing skewed distribution
 Missing value: KNN Imputer
@@ -14,8 +14,8 @@ No. of actual Predictors: 45
 Target: Number of people affected
 Validation scheme: 5-fold cross-validation, Test set performance, Unit test performance
 Train set (80%), Test set (20%)
-Models:
 
+## Models:
 Random Forest (RF)
 Gradient Boosting Method (GBM)
 Support Vector Regression
