@@ -3,15 +3,15 @@
 The projects in this repository cover the following topics.
 
 ### Scalable Machine Learning and Big Data
-
-* Object Oriented Programming in Python
 * Supervised machine learning and clustering 
 * Recommendation System
 * Distributed computing with PyDask 
 * Scalable machine learning and Big data with PySpark
 
-### Machine Learning
-* Supervised learning
+### Data Engineering
+* Building Data Engineering Pipelines in Python
+* Data Processing in Shell
+* Streamlined Data Ingestion with pandas
 * Unsupervised learning
 * Recommendation system
 
