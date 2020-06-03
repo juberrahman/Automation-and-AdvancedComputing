@@ -2,7 +2,7 @@
 
 The projects in this repository cover the following topics.
 
-### Scalable Machine Learning 
+### Productionizing Machine Learning Models
 * Supervised machine learning and clustering 
 * Recommendation System
 * Distributed computing with PyDask 
