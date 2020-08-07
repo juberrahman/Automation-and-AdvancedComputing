@@ -1,0 +1,3 @@
+Dask was launched in late 2014 by Matthew Rocklin with aims to bring native scalability to the Python Open Data Science Stack and overcome its single-machine restrictions. Over time, the project has grown into arguably one of the best scalable computing frameworks available for Python developers. Dask consists of several different components and APIs, which can be categorized into three layers: the scheduler, low-level APIs, and high-level APIs.
+
+The notebooks in this folder demostrates the advantages of parallel computing using Dask for processing big data. I have used a publicly available dataset(nyc-parking-tickets) of size 8 GB (good enough for a proof of concept purpose). 
