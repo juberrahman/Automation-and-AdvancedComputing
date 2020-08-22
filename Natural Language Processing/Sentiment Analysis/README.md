@@ -1,1 +1,0 @@
-In this notebook I used logistic regression classifier to classify reviews into positive or negative sentiment. It involves feature extraction from the tweet, removing stop words and stemming and then vectorizing the tokens.
