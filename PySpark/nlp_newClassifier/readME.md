@@ -1,0 +1,1 @@
+The UCI ML News Aggregator dataset contains headlines and categories for over 400k news articles. Task is to build classification model that classifies news headline into pre-defined categories. The data can be downloaded from https://www.kaggle.com/uciml/news-aggregator-dataset
